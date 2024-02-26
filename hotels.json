@@ -1,25 +1,12 @@
 [
     {
-        "name_hotel": "La Siesta Premium Sai Gon",
-        "address": "Số 1 trong 749 khách sạn tại Thành phố Hồ Chí Minh",
-        "rating": "5,0",
-        "price": [
-            "4.144.000 ",
-            "4.144.000 ",
-            "3.048.088 ",
-            "3.609.024 ",
-            "3.048.088 "
-        ],
-        "features": "Tiện nghi của khách sạn\nInternet tốc độ miễn phí (WiFi)\nBể bơi\nTrung tâm thể dục thẩm mỹ\nBữa sáng miễn phí\nXe đưa đón sân bay\nKhu để hành lý\nNhân viên hỗ trợ tiền sảnh\nGiặt khô\nHiển thị thêm\nTiện nghi trong phòng\nĐiều hòa nhiệt độ\nDịch vụ phòng\nQuầy bar mini\nLoại phòng\nPhòng không hút thuốc\nPhòng Suite"
-    },
-    {
         "name_hotel": "Silverland Ben Thanh",
         "address": "Số 2 trong 749 khách sạn tại Thành phố Hồ Chí Minh",
         "rating": "5,0",
         "price": [
             "3.349.630 ",
+            "2.923.171 ",
             "3.349.630 ",
-            "3.251.111 ",
             "3.251.111 "
         ],
         "features": "Tiện nghi của khách sạn\nBãi đỗ xe miễn phí\nInternet tốc độ miễn phí (WiFi)\nBể bơi\nBữa sáng miễn phí\nXe đưa đón sân bay\nPhòng họp\nGiặt khô\nDịch vụ giặt là\nHiển thị thêm\nTiện nghi trong phòng\nĐiều hòa nhiệt độ\nKét sắt\nQuầy bar mini\nLoại phòng\nPhòng không hút thuốc\nPhòng Suite"
@@ -63,10 +50,9 @@
         "address": "Số 6 trong 749 khách sạn tại Thành phố Hồ Chí Minh",
         "rating": "5,0",
         "price": [
-            "2.637.576 ",
+            "2.610.976 ",
             "2.740.488 ",
-            "2.766.296 ",
-            "2.503.312 ",
+            "2.740.488 ",
             "2.503.312 "
         ],
         "features": "Tiện nghi của khách sạn\nBãi đỗ xe miễn phí\nInternet tốc độ miễn phí (WiFi)\nBể bơi\nTrung tâm thể dục thẩm mỹ\nBữa sáng miễn phí\nXe đưa đón sân bay\nPhòng họp\nSpa\nHiển thị thêm\nTiện nghi trong phòng\nÁo choàng tắm\nĐiều hòa nhiệt độ\nBàn làm việc\nDọn phòng\nDịch vụ phòng\nMáy pha cà phê / trà\nTruyền hình cáp / truyền hình vệ tinh\nVòi rửa vệ sinh\nHiển thị thêm\nLoại phòng\nNgắm cảnh thành phố\nPhòng không hút thuốc\nPhòng Suite\nPhòng cho gia đình\nLiên kết của khách sạn\nTruy cập trang web khách sạn\nGói dịch vụ khách sạn"
@@ -149,5 +135,12 @@
             "2.335.648 "
         ],
         "features": "Tiện nghi của khách sạn\nInternet tốc độ miễn phí (WiFi)\nBể bơi\nTrung tâm thể dục thẩm mỹ\nNhà hàng\nMạng truyền hình dành cho trẻ em\nKhu vui chơi trong nhà cho trẻ em\nXe đưa đón sân bay\nKhách sạn không hút thuốc\nHiển thị thêm\nTiện nghi trong phòng\nĐiều hòa nhiệt độ\nKét sắt\nLoại phòng\nPhòng không hút thuốc\nPhòng Suite"
+    },
+    {
+        "name_hotel": "Khách sạn & Cao ốc Sheraton Sài Gòn",
+        "address": "Số 15 trong 749 khách sạn tại Thành phố Hồ Chí Minh",
+        "rating": "4,5",
+        "price": [],
+        "features": "Tiện nghi của khách sạn\nBãi đỗ xe miễn phí\nInternet miễn phí\nBể bơi\nTrung tâm thể dục thẩm mỹ\nQuầy bar / sảnh chờ\nGiải trí buổi tối\nBóng bàn\nXe đưa đón sân bay\nHiển thị thêm\nTiện nghi trong phòng\nMàn che ánh sáng\nPhòng cách âm\nĐiều hòa nhiệt độ\nPhòng tắm phụ\nMáy pha cà phê / trà\nTruyền hình cáp / truyền hình vệ tinh\nGiường siêu dài\nVòi sen đứng\nHiển thị thêm\nLoại phòng\nNgắm cảnh thành phố\nNhìn ra tòa nhà\nPhòng không hút thuốc\nPhòng Suite\nPhòng cho gia đình\nCó phòng hút thuốc\nThông tin cần biết\nHẠNG KHÁCH SẠN\nPHONG CÁCH KHÁCH SẠN\nGia đình\nXanh\nNGÔN NGỮ SỬ DỤNG\nTiếng Việt, Tiếng Anh, Tiếng Trung, Tiếng Hàn và 1 ngôn ngữ khác\nLiên kết của khách sạn\nTruy cập trang web khách sạn\nƯu đãi đặc biệt:Nhấp để biết chi tiết\nGiảm giá khách sạn"
     }
 ]
